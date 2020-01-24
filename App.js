@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Comenzando a desarrollar!</Text>
+      <Text>Este es un mensaje para Reynaldo's iPhone!</Text>
     </View>
   );
 }
